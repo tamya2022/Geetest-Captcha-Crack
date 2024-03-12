@@ -8,7 +8,7 @@
 本项目主要使用Python和Nodejs开发，仅用于学习交流, 不得用于任何商业用途!!!
 
 ## 使用说明
-启动：先运行 ./static/js/api.js ,然后选择运行 geetest_slide.py
+启动：先运行 ./static/js/server.js ,然后选择运行 geetest_slide.py
 版本：fullpage 9.1.1 slide 7.8.9
 补充：不同的网站只需要替换该网站对应的极验token(即gt值)即可
 
